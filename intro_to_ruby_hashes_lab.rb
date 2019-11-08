@@ -23,7 +23,7 @@ hash = {
       :four_pieces_owned => 200,
     },
     :names =>
-  }
+  },
 }
 end
 
