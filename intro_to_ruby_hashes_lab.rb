@@ -27,7 +27,7 @@ hash = {
       :pennsylvania_railroad =>
       :b_and_o_railroad =>
       :shortline =>
-    }
+    },
   }
 }
 end
