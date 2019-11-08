@@ -23,8 +23,8 @@ hash = {
       :four_pieces_owned => 200,
     },
     :names => {
-      :reading_railroad=> 
-      :railroad_two 
+      :reading_railroad => 
+      :pennsylvania_railroad
       :railroad_three 
       :railroad_four 
     }
