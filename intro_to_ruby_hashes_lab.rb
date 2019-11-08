@@ -22,7 +22,12 @@ hash = {
       :three_pieces_owned => 100,
       :four_pieces_owned => 200,
     },
-    :names => {}
+    :names => {
+      :rail_road_one =>
+      :rail_road_two =>
+      :rail_raod_three =>
+      :rail_road_four =>
+    }
   }
 }
 end
