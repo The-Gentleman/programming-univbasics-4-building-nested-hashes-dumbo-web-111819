@@ -25,7 +25,7 @@ hash = {
     :names => {
       :reading_railroad => {},
       :pennsylvania_railroad => {},
-      :rail_raod_three => {}, 
+      :b_and_o_railroad => {}, 
       :rail_road_four => {} 
     }
   }
